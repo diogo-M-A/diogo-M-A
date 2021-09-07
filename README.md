@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diogo-M-A
+- 👋 Hi, I’m @diogo-M-A from Rio Grande do Norte, Brazil
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ruby and javascript
 - 💞️ I’m looking to collaborate on web projects
