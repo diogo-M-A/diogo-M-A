@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diogo-M-A from Rio Grande do Norte, Brazil
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning intermediate javascript and react
+- 🌱 I’m currently learning fullstack programing with javascript
 - 📖 I'm student at the OneBitCode training course
 - 👨‍🎓 I'm doing college and technical course in the technology area
 - 💞️ I’m looking to collaborate on web projects
