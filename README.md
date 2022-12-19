@@ -18,9 +18,11 @@
 </div>
 
 </br>
-🎓Unopar: Análise e desenvolvimento de sistemas. Previsão de conclusão: 12/2023
+🎓 Unopar: Análise e desenvolvimento de sistemas. Previsão de conclusão: 12/2023
 </br>
-🎓IMD/UFRN: Técnico em informática para internet. Previsão de conclusão: 07/2023
+🎓 IMD/UFRN: Técnico em informática para internet. Previsão de conclusão: 07/2023
+</br>
+📝 Cursos online: https://drive.google.com/drive/u/0/folders/1QTDTlYA83zjLjkT1q0rZI3N9DIl2i0Hy
 </br>
 </br>
 I am a web developer with a focus on JavaScript and TypeScript. I am currently completing an associate degree and a technical training program in the field, and I am eager to apply my skills and knowledge in a professional setting. I am always looking to learn and grow as a developer, and I am excited to take on new challenges and opportunities.
