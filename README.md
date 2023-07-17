@@ -3,7 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-melo-de-araujo-0303541a9/)
 [![Free Code Camp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/DiogoAraujo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogomelo_a/)
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo-M-A&show_icons=true&theme=transparent)
 
